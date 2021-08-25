@@ -3,7 +3,7 @@
 ## Requirements
 * [Red Hat OpenShift Data Science Sandbox](https://registration-service-toolchain-host-operator.apps.rhods-sb-prod.3sox.p1.openshiftapps.com/)
 * [Starburst Galaxy Beta Environment](https://www.starburst.io/platform/starburst-galaxy/)
-* [This repo](https://github.com/keklundrh/rhods-starburst-galaxy-101)
+* [rhods-starburst-galaxy-101 (this repository)](https://github.com/keklundrh/rhods-starburst-galaxy-101)
 
 ## Demonstration
 ### Red Hat OpenShift Data Science + Starburst Galaxy:  <br>  Access and Explore your Data
