@@ -25,4 +25,4 @@ This demonstration illustrates how quickly a Data Scientist can access data and 
 * [AI/ML on OpenShift](https://cloud.redhat.com/learn/topics/ai-ml)
 
 #### Notebooks
-Please use the `explore-data.ipynb` notebook to get started.
+Please use the [`explore-data.ipynb`](./explore-data.ipynb) notebook to get started.
