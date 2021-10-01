@@ -17,7 +17,7 @@ With **Starburst Galaxy**, Data Scientists and Developers will be able to quickl
 
 ![MLLC](files/ml-lifecycle-desktop.svg)
 
-**Figure:** Machine Learning Lifecycle
+**Figure 1:** Machine Learning Lifecycle
 
 This demonstration illustrates how quickly a Data Scientist can access data and pull it into the Red Hat OpenShift Data Science Jupyter environment using Starburst Galaxy.
 
