@@ -11,9 +11,9 @@
 #### Introduction
 **Red Hat OpenShift Data Science**, a managed cloud platform for Data Scientists and Developers of intelligent applications, supports the full Machine Learning lifecycle by providing a robust, scalable platform and a flexible, interactive environment for teams to do their work. 
 
-Starburst Galaxy, based on open source Trino (formerly PrestoSQL), is a managed service providing a secure and performant single point of access to all of your data without having to first copy or move it to a central repository. 
-Starburst Galaxy focuses on the first, and often most difficult problem teams face when starting a new project - The Acquisition and Preparation of Data. 
-With Starburst Galaxy, Data Scientists and Developers will be able to quickly and easily combine data from multiple sources to perform comprehensive analyses for their organizations.
+**Starburst Galaxy**, based on open source Trino (formerly PrestoSQL), is a managed service providing a secure and performant single point of access to all of your data without having to first copy or move it to a central repository. 
+**Starburst Galaxy** focuses on the first, and often most difficult problem teams face when starting a new project - **The Acquisition and Preparation of Data**.
+With **Starburst Galaxy**, Data Scientists and Developers will be able to quickly and easily combine data from multiple sources to perform comprehensive analyses for their organizations.
 
 ![MLLC](files/ml-lifecycle-desktop.svg)
 
