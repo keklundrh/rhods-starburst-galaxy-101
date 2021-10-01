@@ -9,15 +9,17 @@
 ### Red Hat OpenShift Data Science + Starburst Galaxy:  <br>  Access and Explore your Data
 
 #### Introduction
-**Red Hat OpenShift Data Science**, a managed cloud platform for Data Scientists and Developers of intelligent applications, supports the full Machine Learning lifecycle by providing a robust, scalable platform and a flexible, interactive environment for teams to do their work. **Starburst Galaxy**, based on open source Trino (formerly PrestoSQL), is a managed service providing a single point of access to your data without having to move it to a central repository. **Starburst Galaxy** focuses on the first, and often most difficult problem teams face when starting a new project - **The Acquisition and Preparation of Data**. 
+**Red Hat OpenShift Data Science**, a managed cloud platform for Data Scientists and Developers of intelligent applications, supports the full Machine Learning lifecycle by providing a robust, scalable platform and a flexible, interactive environment for teams to do their work. 
 
-This demonstration illustrates how quickly a Data Scientist can access data and pull it into the Red Hat OpenShift Data Science Jupyter environment using Starburst Galaxy.
-
-
-**Figure:** Machine Learning Lifecycle
+Starburst Galaxy, based on open source Trino (formerly PrestoSQL), is a managed service providing a secure and performant single point of access to all of your data without having to first copy or move it to a central repository. 
+Starburst Galaxy focuses on the first, and often most difficult problem teams face when starting a new project - The Acquisition and Preparation of Data. 
+With Starburst Galaxy, Data Scientists and Developers will be able to quickly and easily combine data from multiple sources to perform comprehensive analyses for their organizations.
 
 ![MLLC](files/ml-lifecycle-desktop.svg)
 
+**Figure:** Machine Learning Lifecycle
+
+This demonstration illustrates how quickly a Data Scientist can access data and pull it into the Red Hat OpenShift Data Science Jupyter environment using Starburst Galaxy.
 
 **Useful links**:
 * [Red Hat OpenShift Data Science](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-data-science)
